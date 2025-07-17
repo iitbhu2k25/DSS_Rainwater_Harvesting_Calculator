@@ -82,7 +82,7 @@ const navItems = [
         ]
       },
       { label: 'Rainwater Harvesting Calculator',
-        href: '/dss/rwm/rainwater_calculator'
+        href: '/dss/rainwater'
        }
     ]
   },

@@ -225,7 +225,7 @@ const LocationSelector: React.FC<LocationSelectorProps> = ({ onConfirm, onReset,
             }
           );
           const data = await response.json();
-          console.log('API response data:', data);
+          console.log('Sub district response data:', data);
 
           // Create a map of district IDs to names for reference
           const districtMap = new Map(
